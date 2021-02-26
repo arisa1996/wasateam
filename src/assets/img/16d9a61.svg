@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>IMG/服務項目/圖表</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IMG/服務項目/圖表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(4.000000, 6.000000)">
+            <path d="M23.0536,36.2303 C23.0536,42.4293 18.0286,47.4563 11.8286,47.4563 C5.6296,47.4563 0.6036,42.4293 0.6036,36.2303 C0.6036,30.0313 5.6296,25.0053 11.8286,25.0053 C18.0286,25.0053 23.0536,30.0313 23.0536,36.2303 Z" id="Stroke-1" stroke="#A3B87E" stroke-width="2.208" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.3407,34.2059 L13.5797,20.0109 C17.3017,20.0739 20.8537,21.5979 23.4637,24.2519 C26.0727,26.9059 27.5367,30.4829 27.5367,34.2059 L13.3407,34.2059 Z" id="Fill-3" fill="#F4F6E3"></path>
+            <path d="M13.3407,34.2059 L13.5797,20.0109 C17.3017,20.0739 20.8537,21.5979 23.4637,24.2519 C26.0727,26.9059 27.5367,30.4829 27.5367,34.2059 L13.3407,34.2059 Z" id="Stroke-5" stroke="#A3B87E" stroke-width="2.53" stroke-linecap="round" stroke-linejoin="round"></path>
+            <line x1="28.7108" y1="22.8236" x2="51.1758" y2="22.8236" id="Stroke-7" stroke="#A3B87E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+            <path d="M35.9266,9.9149 L33.4426,9.9149 C32.7126,9.9149 32.1216,10.5069 32.1216,11.2359 L32.1216,22.8239 L37.2466,22.8239 L37.2466,11.2359 C37.2466,10.5069 36.6556,9.9149 35.9266,9.9149" id="Fill-9" fill="#F4F6E3"></path>
+            <path d="M35.9266,9.9149 L33.4426,9.9149 C32.7126,9.9149 32.1216,10.5069 32.1216,11.2359 L32.1216,22.8239 L37.2466,22.8239 L37.2466,11.2359 C37.2466,10.5069 36.6556,9.9149 35.9266,9.9149 Z" id="Stroke-11" stroke="#A3B87E" stroke-width="2.53" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M45.4793,0.2645 L42.9953,0.2645 C42.2653,0.2645 41.6743,0.8565 41.6743,1.5855 L41.6743,22.8235 L46.7993,22.8235 L46.7993,1.5855 C46.7993,0.8565 46.2083,0.2645 45.4793,0.2645" id="Fill-13" fill="#F4F6E3"></path>
+            <path d="M45.4793,0.2645 L42.9953,0.2645 C42.2653,0.2645 41.6743,0.8565 41.6743,1.5855 L41.6743,22.8235 L46.7993,22.8235 L46.7993,1.5855 C46.7993,0.8565 46.2083,0.2645 45.4793,0.2645 Z" id="Stroke-15" stroke="#A3B87E" stroke-width="2.53" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-17" stroke="#A3B87E" stroke-width="2.208" stroke-linecap="round" stroke-linejoin="round" points="28.7108 47.4559 36.1928 39.5529 40.1818 43.0029 48.9028 34.2059"></polyline>
+        </g>
+    </g>
+</svg>

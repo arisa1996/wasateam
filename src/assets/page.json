@@ -1,0 +1,52 @@
+{
+  "item": [
+      { 
+        "index": "qqball1",
+        "title": "聞臺加 • 壹",
+        "color": "#178f98",
+        "remarks": [ "RWD網站", "插畫", "Logo設計" ],
+        "img": "https://upload.cc/i1/2021/02/24/rl4Rqc.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/PuHaOf.jpg", "https://upload.cc/i1/2021/02/25/zWT4b3.jpg", "https://upload.cc/i1/2021/02/25/QIhsij.jpg" ]
+      },
+      { 
+        "index": "qqball2",
+        "title": "聞臺加 • 貳",
+        "color": "#c0e58d",
+        "remarks": [ "RWD網站", "動態圖表", "數據分析" ],
+        "img": "https://upload.cc/i1/2021/02/24/8CS1Vc.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/jLnxyS.jpg", "https://upload.cc/i1/2021/02/25/EplidX.jpg", "https://upload.cc/i1/2021/02/25/mFZHe6.jpg" ]
+      },
+      { 
+        "index": "qqball3",
+        "title": "聞臺加 • 參",
+        "color": "#f7b52c",
+        "remarks": [ "RWD網站", "資訊平台" ],
+        "img": "https://upload.cc/i1/2021/02/24/BEzXQS.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/DsftZq.jpg", "https://upload.cc/i1/2021/02/25/si7P2h.jpg", "https://upload.cc/i1/2021/02/25/DdlucV.jpg" ]
+      },
+      { 
+        "index": "qqball4",
+        "title": "聞臺加 • 肆",
+        "color": "#3686c3",
+        "remarks": [ "RWD網站", "API服務" ],
+        "img": "https://upload.cc/i1/2021/02/24/4NVdD5.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/logsm4.jpg", "https://upload.cc/i1/2021/02/25/9vhXzm.jpg", "https://upload.cc/i1/2021/02/25/i1jMGB.jpg" ]
+      },
+      { 
+        "index": "qqball5",
+        "title": "聞臺加 • 伍",
+        "color": "#ff8a8b",
+        "remarks": [ "RWD網站", "Logo", "GIF動畫" ],
+        "img": "https://upload.cc/i1/2021/02/24/muQkXi.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/vpxAM3.jpg", "https://upload.cc/i1/2021/02/25/yc4J6e.jpg", "https://upload.cc/i1/2021/02/25/OQNJxp.jpg" ]
+      },
+      { 
+        "index": "qqball6",
+        "title": "聞臺加 • 陸",
+        "color": "#8689a6",
+        "remarks": [ "RWD網站", "動態圖表", "資料視覺化" ],
+        "img": "https://upload.cc/i1/2021/02/25/V1GY6r.jpg",
+        "imgs": [ "https://upload.cc/i1/2021/02/25/vnfJAp.jpg", "https://upload.cc/i1/2021/02/25/bMmqjL.jpg", "https://upload.cc/i1/2021/02/25/Wpz6q3.jpg" ]
+      }     
+  ]
+}
