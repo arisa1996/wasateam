@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1139px" height="61px" viewBox="0 0 1139 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>banner-b@1x</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="banner-b">
+            <g>
+                <path d="M1138.2,60.2 L1138.2,53.8 C1138.2,53.8 884.3,7.10542736e-15 566.5,7.10542736e-15 C251.5,7.10542736e-15 0,53.8 0,53.8 L0,60.2 L1138.2,60.2 Z" id="Path" fill="#F4F6E3" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
