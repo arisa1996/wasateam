@@ -1,24 +1,10 @@
 # wasa
 
-## Project setup
-```
-npm install
-```
+### 使用技術
+* 使用 Vue.js 
+* 自行撰寫 RWD
+* animation css & AOS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://i.imgur.com/17QDNkE.png)
+![](https://i.imgur.com/VsRv1El.png)
+![](https://i.imgur.com/w77U11g.png)
