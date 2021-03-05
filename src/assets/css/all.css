@@ -11360,6 +11360,10 @@ fieldset:disabled .btn {
   font-size: 1.2rem;
 }
 
+.footer-content .copyright {
+  padding-top: 350px;
+}
+
 .section-title h2, .section-title .h2 {
   font-weight: 600;
   font-size: 4.5rem;
@@ -11570,6 +11574,9 @@ fieldset:disabled .btn {
     left: 20%;
     font-size: 1rem;
   }
+  .footer-content .copyright {
+    padding-top: 250px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -11592,6 +11599,9 @@ fieldset:disabled .btn {
   .footer-content .footer-items {
     left: 10%;
   }
+  .footer-content .copyright {
+    padding-top: 150px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -11613,6 +11623,9 @@ fieldset:disabled .btn {
     width: 250px;
     left: 18%;
   }
+  .footer-content .copyright {
+    font-size: 0.8rem;
+  }
 }
 
 @media (max-width: 475px) {
@@ -11622,7 +11635,7 @@ fieldset:disabled .btn {
     left: 30px;
   }
   .footer-content {
-    padding-top: 50px;
+    padding-top: 25px;
   }
   .footer-content h2, .footer-content .h2 {
     font-size: 1.5rem;
@@ -11631,6 +11644,9 @@ fieldset:disabled .btn {
     width: 200px;
     font-size: .8rem;
   }
+  .footer-content .copyright {
+    padding-top: 120px;
+  }
 }
 
 @media (max-width: 375px) {
@@ -11638,8 +11654,9 @@ fieldset:disabled .btn {
     width: 70%;
     left: 20px;
   }
-  .footer-content {
-    padding-top: 15px;
+  .footer-content .copyright {
+    font-size: .6rem;
+    padding-top: 100px;
   }
 }
 /*# sourceMappingURL=all.css.map */

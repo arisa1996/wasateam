@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>IMG/服務項目/APP</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IMG/服務項目/APP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-13" transform="translate(15.000000, 5.000000)" stroke="#A3B87E">
+            <path d="M25.9882,48.9144 L3.6702,48.9144 C1.8462,48.9144 0.3552,47.4234 0.3552,45.6004 L0.3552,3.6694 C0.3552,1.8464 1.8462,0.3544 3.6702,0.3544 L25.9882,0.3544 C27.8112,0.3544 29.3022,1.8464 29.3022,3.6694 L29.3022,45.6004 C29.3022,47.4234 27.8112,48.9144 25.9882,48.9144 Z" id="Stroke-1" stroke-width="2.71"></path>
+            <line x1="1.2958" y1="8.8978" x2="28.3618" y2="8.8978" id="Stroke-3" stroke-width="2.34"></line>
+            <line x1="0.3554" y1="39.3314" x2="29.3024" y2="39.3314" id="Stroke-5" stroke-width="2.34"></line>
+            <line x1="16.454" y1="19.3177" x2="12.742" y2="28.9907" id="Stroke-7" stroke-width="2.168"></line>
+            <polyline id="Stroke-9" stroke-width="2.168" points="19.8261 20.181 23.2371 23.889 19.8261 27.598"></polyline>
+            <polyline id="Stroke-11" stroke-width="2.168" points="9.832 20.181 6.421 23.889 9.832 27.598"></polyline>
+        </g>
+    </g>
+</svg>
